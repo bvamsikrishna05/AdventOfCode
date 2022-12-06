@@ -1,3 +1,5 @@
+#Day 1 Calarie count
+
 #getting the input data
 
 with open('1dec.in') as file:
@@ -26,5 +28,6 @@ with open('1dec.in') as file:
 
 print ("Puzzle answer Part1:", max)
 print ("Puzzle answer Part2:", max+max2+max3)
+
 
       

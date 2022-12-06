@@ -1,3 +1,5 @@
+#Day 1 Rock,Paper, Scissors
+
 # 1: rock, 2: paper, 3: scissors
 # Rock defeats Scissors, Scissors defeats Paper, and Paper defeats Rock.
 
@@ -6,7 +8,7 @@
 with open('2dec.in') as file:
     rounds = [i for i in file.read().strip().split("\n")]
 
-   #print(rounds)
+    #print(rounds)
 
 # ALL POSSIBLE OUTCOMES
 # ---------------------
